@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zobaer-hossain-27275b194" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="zobaer-hossain-27275b194" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zobaer53" target="blank"><img align="center"  src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" alt="zobaer53" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zobaer-hossain-27275b194" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png" alt="zobaer-hossain-27275b194" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zobaer53" target="blank"><img align="center"  src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="zobaer53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/id20103184" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="id20103184" height="30" width="40" /></a>
 </p>
 
