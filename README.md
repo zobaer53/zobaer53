@@ -10,9 +10,9 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/zobaer53/" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="zobaer53" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/id20103184" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="id20103184" height="30" width="40" /></a>
-<a href=" https://www.sololearn.com/profile/15909016" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="15909016" height="30" width="40" /></a>
-<a href=" https://www.fiverr.com/zobaer53" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Symbol.png" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zobaer53" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="id20103184" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/profile/15909016" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="15909016" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/zobaer53" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Symbol.png" height="30" width="40" /></a>
  
 </p>
 
