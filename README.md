@@ -25,7 +25,8 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobaer53&show_icons=true&theme=dark&locale=en&layout=compact" alt="zobaer53" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobaer53&show_icons=true&theme=dark&locale=en&layout=compact" alt="zobaer53"/></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zobaer53&show_icons=true&theme=dark&locale=en" alt="zobaer53" /></p>
 
