@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zobaer Hossain</h1>
 
-- 🌱 I’m passionate about **Android Application development.**
+- 🌱 I’m passionate about **Mobile app development.**
 
 - 📫 How to reach me **hossain.zobaer11858@gmail.com**
 
