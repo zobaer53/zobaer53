@@ -19,21 +19,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
- <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="90" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="40"/> </a> 
- <a href="https://developer.android.com" target="_blank"> <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-logos-pictures-39.png" alt="android" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> </a> 
-<a href="https://www.kotlin.com" target="_blank"> <img src="https://seeklogo.com/images/K/kotlin-logo-4EA4DB3A08-seeklogo.com.png" alt="kotlin" width="50" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="40"/> </a>
-</p>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobaer53&show_icons=true&theme=dark&locale=en&layout=compact" alt="zobaer53"/></p>
+| <a href="https://github.com/zobaer53/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zobaer53&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="zobaer53's github stats" /></a> | <a href="https://github.com/zobaer53/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobaer53&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zobaer53&show_icons=true&theme=dark&locale=en" alt="zobaer53" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zobaer53&theme=dark" alt="zobaer53" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zobaer53&theme=dark" alt="zobaer's GitHub Streak" /></a>
 
